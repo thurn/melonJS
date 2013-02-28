@@ -337,7 +337,7 @@
 	 * @private
 	 * @constructor
 	 */
-	CollisionTiledLayer = Object.extend({
+	$.CollisionTiledLayer = Object.extend({
 		// constructor
 		init: function CollisionTiledLayer(realwidth, realheight) {
 			this.realwidth = realwidth;
